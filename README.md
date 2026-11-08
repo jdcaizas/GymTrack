@@ -4,7 +4,9 @@ Aplicación web para quienes entrenan en el gimnasio: permite organizar ejercici
 
 Proyecto de la asignatura de Ingeniería Web — Universidad de las Américas.
 
-**Demo en línea:** [URL del deploy]
+**Demo en línea:** https://gym-track-lake.vercel.app
+
+
 **Video explicativo:** [URL de Loom o YouTube]
 
 ## Tecnologías
