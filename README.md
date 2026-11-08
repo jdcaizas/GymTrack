@@ -7,7 +7,7 @@ Proyecto de la asignatura de Ingeniería Web — Universidad de las Américas.
 **Demo en línea:** https://gym-track-lake.vercel.app
 
 
-**Video explicativo:** [URL de Loom o YouTube]
+**Video explicativo:** https://youtu.be/a__GtCJsEtc
 
 ## Tecnologías
 
