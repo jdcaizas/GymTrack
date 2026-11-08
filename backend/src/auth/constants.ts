@@ -1,0 +1,1 @@
+export const JWT_SECRET = process.env.JWT_SECRET || 'gymtrack-dev-secret-cambiar-en-produccion';
