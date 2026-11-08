@@ -1,7 +1,7 @@
 import { session, clearSession } from './auth';
 import router from './router';
 
-const BASE = 'http://localhost:3000';
+const BASE = import.meta.env.VITE_API_URL || 'http://localhost:3000';
 
 export async function api(path, { method = 'GET', body } = {}) {
   const res = await fetch(BASE + path, {
